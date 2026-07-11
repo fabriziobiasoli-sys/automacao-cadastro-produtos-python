@@ -1,2 +1,34 @@
 # automacao-cadastro-produtos-python
-Automação desenvolvida em Python utilizando PyAutoGUI e Pandas para realizar login em um sistema e cadastrar produtos automaticamente a partir de um arquivo CSV.
+Projeto desenvolvido utilizando Python, PyAutoGUI e Pandas para automatizar o cadastro de produtos em um sistema web.
+
+🚀 Tecnologias
+
+* Python
+* Pandas
+* PyAutoGUI
+
+✨ Funcionalidades
+
+* Login automático
+* Leitura de CSV
+* Cadastro automático
+* Navegação automática entre campos
+
+📹 Demonstração    
+📸 Print da automação    
+💼 Post no LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
