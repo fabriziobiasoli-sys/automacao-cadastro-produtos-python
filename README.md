@@ -15,7 +15,10 @@ Projeto desenvolvido utilizando Python, PyAutoGUI e Pandas para automatizar o ca
 * Navegação automática entre campos
 
 📹 Demonstração    
+https://drive.google.com/file/d/1dpZmOSUJTD5ZNbmAodJ5llLTERk2jjtD/view?usp=drivesdk
+
 📸 Print da automação    
+
 💼 Post no LinkedIn
 
 
